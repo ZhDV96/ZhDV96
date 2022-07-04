@@ -23,3 +23,6 @@ DBMS
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
 [![Microsoft_SQL_Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
 
+Design  
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) [![InDesign Badge](https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=for-the-badge&labelColor=black&logo=Adobe%20InDesign&logoColor=FF3366)](#)
+

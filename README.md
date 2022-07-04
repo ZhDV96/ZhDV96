@@ -6,6 +6,10 @@ I`m a Middle QA Manual Engineer with experience in test automation
 
 Tech Stack I work with
 
+Platform  
+[![Windows Badge](https://img.shields.io/badge/-Windows-ffff00?style=for-the-badge&labelColor=black&logo=Windows&logoColor=ffff00)](#)
+[![Linux Badge](https://img.shields.io/badge/-Linux-ffff00?style=for-the-badge&labelColor=black&logo=Linux&logoColor=ffff00)](#)      
+
  [![Python Badge](https://img.shields.io/badge/-Python-ffff00?style=for-the-badge&labelColor=black&logo=Python&logoColor=ffff00)](#)  
  [![Selenium Badge](https://img.shields.io/badge/-Selenium-61DBFB?style=for-the-badge&labelColor=black&logo=Selenium&logoColor=61DBFB)](#) [![Pytest Badge](https://img.shields.io/badge/-Pytest-e535ab?style=for-the-badge&labelColor=black&logo=Pytest&logoColor=e535ab)](#)  
  [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=Docker&logoColor=007acc)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-eb6e34?style=for-the-badge&labelColor=black&logo=mysql&logoColor=eb6e34)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-f72307?style=for-the-badge&labelColor=black&logo=Postman&logoColor=f72307)](#)

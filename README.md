@@ -7,7 +7,7 @@ I`m a Middle QA Manual Engineer with experience in test automation
 Tech Stack I work with
 
 Platform  
-[![Windows Badge](https://img.shields.io/badge/-Windows-ffff00?style=for-the-badge&labelColor=black&logo=Windows&logoColor=ffff00)](#)
+[![Windows Badge](https://img.shields.io/badge/-Windows-#007ec6?style=for-the-badge&labelColor=black&logo=Windows&logoColor=#007ec6)](#)
 [![Linux Badge](https://img.shields.io/badge/-Linux-ffff00?style=for-the-badge&labelColor=black&logo=Linux&logoColor=ffff00)](#)      
 
  [![Python Badge](https://img.shields.io/badge/-Python-ffff00?style=for-the-badge&labelColor=black&logo=Python&logoColor=ffff00)](#)  

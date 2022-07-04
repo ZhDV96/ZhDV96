@@ -11,14 +11,15 @@ Platform
 [![Linux Badge](https://img.shields.io/badge/-Linux-lightblue?style=for-the-badge&labelColor=grey&logo=Linux&logoColor=white)](#)      
 
 Code  
- [![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&labelColor=black&logo=Java&logoColor=orange)](#) [![Python Badge](https://img.shields.io/badge/-Python-ffff00?style=for-the-badge&labelColor=black&logo=Python&logoColor=ffff00)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&labelColor=black&logo=Java&logoColor=orange)](#) [![Python Badge](https://img.shields.io/badge/-Python-ffff00?style=for-the-badge&labelColor=black&logo=Python&logoColor=ffff00)](#) 
  
- Tools  
- [![Selenide Badge](https://img.shields.io/badge/-Selenide-ffcc66?style=for-the-badge&labelColor=black&logo=Selenide&logoColor=ffcc66)](#) [![Selenium Badge](https://img.shields.io/badge/-Selenium-61DBFB?style=for-the-badge&labelColor=black&logo=Selenium&logoColor=61DBFB)](#) [![Junit5 Badge](https://img.shields.io/badge/-Junit5-25A162?style=for-the-badge&labelColor=black&logo=Junit5&logoColor=25A162)](#) [![Maven Badge](https://img.shields.io/badge/-apache_maven-C71A36?style=for-the-badge&labelColor=black&logo=apachemaven&logoColor=C71A36)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-f72307?style=for-the-badge&labelColor=black&logo=Postman&logoColor=f72307)](#)
+Tools  
+[![Selenide Badge](https://img.shields.io/badge/-Selenide-ffcc66?style=for-the-badge&labelColor=black&logo=Selenide&logoColor=ffcc66)](#) [![Selenium Badge](https://img.shields.io/badge/-Selenium-61DBFB?style=for-the-badge&labelColor=black&logo=Selenium&logoColor=61DBFB)](#) [![Junit5 Badge](https://img.shields.io/badge/-Junit5-25A162?style=for-the-badge&labelColor=black&logo=Junit5&logoColor=25A162)](#) [![Maven Badge](https://img.shields.io/badge/-apache_maven-C71A36?style=for-the-badge&labelColor=black&logo=apachemaven&logoColor=C71A36)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-f72307?style=for-the-badge&labelColor=black&logo=Postman&logoColor=f72307)](#)
  
- CI/CD  
- [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=Docker&logoColor=007acc)](#)  
+CI/CD  
+[![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=Docker&logoColor=007acc)](#) [![Docker Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=Jenkins&logoColor=D24939)](#)
  
- Database  
-[![PostgreSQL Badge](https://img.shields.io/badge/-MySQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
+DBMS  
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
+[![Microsoft_SQL_Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
 
